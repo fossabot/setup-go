@@ -2,6 +2,7 @@
 
 [![Basic validation](https://github.com/actions/setup-go/actions/workflows/basic-validation.yml/badge.svg)](https://github.com/actions/setup-go/actions/workflows/basic-validation.yml)
 [![Validate 'setup-go'](https://github.com/actions/setup-go/actions/workflows/versions.yml/badge.svg)](https://github.com/actions/setup-go/actions/workflows/versions.yml)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fsetup-go.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fsetup-go?ref=badge_shield)
 
 This action sets up a go environment for use in actions by:
 
@@ -267,6 +268,9 @@ permissions:
 # License
 
 The scripts and documentation in this project are released under the [MIT License](LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fsetup-go.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fsetup-go?ref=badge_large)
 
 # Contributions
 
